@@ -1,4 +1,3 @@
-  #! /bin/bash
   set syntax=on
   colorscheme elflord
   set background=dark
